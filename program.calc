@@ -1,0 +1,6 @@
+# this program calculates the volume of a cylinder:
+
+r = 2.5 # r is the radius
+h = 10 # h is the height
+
+PI * r^2 * h # result
